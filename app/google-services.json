@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513309557252",
+    "project_id": "awesomechat-4777e",
+    "storage_bucket": "awesomechat-4777e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513309557252:android:41baaf6ee37958e6c0eb51",
+        "android_client_info": {
+          "package_name": "com.example.awesomechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513309557252-kk8ttv4h6prg3q66es65llolkrangkek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awesomechat",
+            "certificate_hash": "97c457e8356af2ae356d432f26f3d0897431a6a0"
+          }
+        },
+        {
+          "client_id": "513309557252-u0tkm3cv8ukhgegdb8lt43fcutb6hd35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDBEQZLOxTCIjKEpnpaJHP9teOjO_SCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513309557252-u0tkm3cv8ukhgegdb8lt43fcutb6hd35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
